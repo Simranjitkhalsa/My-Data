@@ -29,4 +29,6 @@ I am *Simranjit kaur.* I have completed my 12th from **Guru Nanak Dev Acadmy.** 
   ## Contact details
 
      * amarjitsohal769@gmail.com
+ ## Blog
+ https://github.com/Simranjitkhalsa/My-Data/blob/main/my_experience/Post1.md
  
