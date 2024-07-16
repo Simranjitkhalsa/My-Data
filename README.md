@@ -31,5 +31,7 @@ I am *Simranjit kaur.* I have completed my 12th from **Guru Nanak Dev Acadmy.** 
      * amarjitsohal769@gmail.com
  ## Blog
  [View my blog ](https://github.com/Simranjitkhalsa/My-Data/blob/main/my_experience/Post1.md)
- ![IMG_0177](https://github.com/user-attachments/assets/fa6c3b07-1bba-4da8-ba62-6da451199dde)
+ 
+ [View my tutorial](https://docs.google.com/document/d/1pEjTGAMS9MY5p58B-RQx0teo00-RARpRHPf2SfpCNgc/edit?usp=sharing)
+ 
 
