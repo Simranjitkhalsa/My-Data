@@ -33,6 +33,7 @@ I am *Simranjit kaur.* I have completed my 12th from **Guru Nanak Dev Acadmy.** 
  [View my blog ](https://github.com/Simranjitkhalsa/My-Data/blob/main/my_experience/Post1.md)
  
  [View my tutorial](https://docs.google.com/document/d/1pEjTGAMS9MY5p58B-RQx0teo00-RARpRHPf2SfpCNgc/edit?usp=sharing)
+
 ## My achievements: 
 ![IMG_0197](https://github.com/user-attachments/assets/3bf2d93a-7ff1-4f91-bc43-810ab1721b3f)
 
