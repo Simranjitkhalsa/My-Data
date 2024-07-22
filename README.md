@@ -38,4 +38,6 @@ I am *Simranjit kaur.* I have completed my 12th from **Guru Nanak Dev Acadmy.** 
 ![IMG_0197](https://github.com/user-attachments/assets/3bf2d93a-7ff1-4f91-bc43-810ab1721b3f)
 
  
+## Induction report:
 
+[Click here to view the report](https://github.com/Simranjitkhalsa/College-activities)
